@@ -16,8 +16,8 @@
 - [Web Services](https://github.com/josineisilva/mobile_webservice)
 - [Navegação](https://github.com/josineisilva/mobile_navegacao)
 - [Diálogos](https://github.com/josineisilva/mobile_dialog)
-- [FireBase]
+- [FireBase](https://github.com/josineisilva/mobile_firebase)
+- [Maps](https://github.com/josineisilva/mobile_maps)
 - [Internacionalização]
 - [Plataform Channel]
 - [Animação]
-- [API Google]
