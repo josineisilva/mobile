@@ -18,6 +18,5 @@
 - [Diálogos](https://github.com/josineisilva/mobile_dialog)
 - [FireBase](https://github.com/josineisilva/mobile_firebase)
 - [Maps](https://github.com/josineisilva/mobile_maps)
-- [Internacionalização]
-- [Plataform Channel]
-- [Animação]
+- [Animação](https://github.com/josineisilva/mobile_animation)
+- [Internacionalização](https://github.com/josineisilva/mobile_internationalization)
